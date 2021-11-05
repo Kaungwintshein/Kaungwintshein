@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaung Wint</h1>
 <h3 align="center">A passionate student from Yangon</h3>
 
-- 🌱 I’m currently learning **react, Redux, Express, Typescript, etc.**
+- 🌱 I’m currently learning **React, Redux, Express, Typescript, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/kaungwintshein?tab=repositories)
 
